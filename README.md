@@ -20,6 +20,9 @@ Our project focuses on solving the maze pathfinding problem using nature-inspire
 - **28th March 2025**: Integration of all components and testing.
 - **15th April 2025**: Preparation of the final report and presentation.
 
+## Conclusion
+In this project, we compared the efficiency of ACO and GA algorithms for solving mazes. ACO demonstrated higher speed and reliability due to its pheromone mechanism, quickly finding the shortest path. While GA provides broader solution exploration, it was slower because of its stochastic nature and parameter sensitivity. Thus, ACO is preferable for tasks requiring fast and precise solutions, whereas GA may be better suited for more complex configurations. Both methods confirmed the potential of nature-inspired algorithms in navigation tasks.
+
 ## References
 - [Python Documentation](https://docs.python.org/3/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
